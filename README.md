@@ -10,8 +10,8 @@
 
 <p>
   <a href="https://github.com/prajyot-pimpale"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
+  <a href="https://in.linkedin.com/in/prajyot-pimpale-80b921289"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+  <a href="mailto:pimpaleprajyot@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
 </p>
 
 </div>
