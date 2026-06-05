@@ -83,7 +83,7 @@
 
 ![Prajyot's GitHub Stats](https://github-readme-stats-salesp07.vercel.app/api?username=prajyot-pimpale&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=prajyot-pimpale&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=prajyot-pimpale&theme=tokyonight&hide_border=true&border_radius=4.3)](https://git.io/streak-stats)
 
 </div>
 
