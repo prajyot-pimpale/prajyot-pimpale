@@ -72,8 +72,25 @@
 ### 🔹 [Project Name Three](https://github.com/prajyot-pimpale/project-three)
 📌 **Tech:** Spring Security, JWT, Hibernate
 📝 Add a one-line description of what this project does.
+
 ---
+
+## 📚 Core Java Mini Projects Collection
+
+A collection of beginner-to-intermediate Core Java projects demonstrating OOP, Collections, File Handling, Serialization, and Exception Handling.
+<div align="center">
+
+|| 🚀 Project ||
+|------------|------------|------------|
+| 🔹 [Student Management System](repo-link) | 🔹 [Bank Account System](repo-link) | 🔹 [Inventory Management System](repo-link) |
+| 🔹 [Library Management System](repo-link) | 🔹 [Quiz Application](repo-link) | 🔹 [File-Based Notes Manager](repo-link) |
+| 🔹 [Contact Management System](repo-link) | 🔹 [Employee Management System](repo-link) | 🔹 [Serialized Student Records](repo-link) |
+| 🔹 [Expense Tracker](repo-link) |
+
+</div>
 -->
+
+---
 
 ## 📊 GitHub Stats
 
