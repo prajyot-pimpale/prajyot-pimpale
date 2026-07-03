@@ -23,7 +23,7 @@
 - 👨‍💻 **Java Backend Developer** who loves building clean, scalable systems
 - ⚙️ Specialised in **Spring Boot · Microservices · REST APIs**
 - 🎓 Education **Computer Engineer** at DBATU
-- ☁️ Exploring **Speing AI, AWS & Docker**
+- ☁️ Exploring **Spring AI, AWS & Docker**
 - 🏅 **Oracle Certified Associate**(OCA)- Java SE 8
 
 ---
@@ -83,10 +83,10 @@ A collection of beginner-to-intermediate Core Java projects demonstrating OOP, C
 
 || 🚀 Mini Projects ||
 |------------|------------|------------|
-| 🔹 [Student Management System](https://github.com/prajyot-pimpale/java-mini-projects/tree/main/student-management-system) | 🔹 [Bank Account System](https://github.com/prajyot-pimpale/java-mini-projects/tree/main/bank-account-system) | 🔹 [Inventory Management System](repo-link) |
-| 🔹 [Library Management System](https://github.com/prajyot-pimpale/java-mini-projects/tree/main/library-management-system) | 🔹 [Quiz Application](https://github.com/prajyot-pimpale/java-mini-projects/tree/main/quiz-application) | 🔹 [File-Based Notes Manager](repo-link) |
-| 🔹 [Contact Management System](repo-link) | 🔹 [Employee Management System](repo-link) | 🔹 [Serialized Student Records](repo-link) |
-| 🔹 [Expense Tracker](repo-link) | 🔹 [Scientific Calculator](https://github.com/prajyot-pimpale/java-mini-projects/tree/main/scientific-calculator) | 
+| 🔹 [Contact Management System](https://github.com/prajyot-pimpale/java-mini-projects/tree/main/contact-management-system-using-file-handling) | 🔹 [Employee Management System](https://github.com/prajyot-pimpale/java-mini-projects/tree/main/employee-management-system-using-serialization) | 🔹 [Bank Account System](https://github.com/prajyot-pimpale/java-mini-projects/tree/main/bank-account-system) |
+| 🔹 [Library Management System](https://github.com/prajyot-pimpale/java-mini-projects/tree/main/library-management-system) | 🔹 [Hospital Management System](https://github.com/prajyot-pimpale/java-mini-projects/tree/main/hospital-management-system) | 🔹 [ATM Management System(OOP)](https://github.com/prajyot-pimpale/java-mini-projects/tree/main/atm-management-system-with-oop) |
+| 🔹 [Ticket Booking System(Multi Threading)](https://github.com/prajyot-pimpale/java-mini-projects/tree/main/ticket-booking-system-multithreading) | 🔹 [Chat Application(Socket Programming](https://github.com/prajyot-pimpale/java-mini-projects/tree/main/multi-client-chat-application(socket-programming)) | 🔹 [Student Management System](https://github.com/prajyot-pimpale/java-mini-projects/tree/main/student-management-system) |
+| 🔹 [Quiz Application](https://github.com/prajyot-pimpale/java-mini-projects/tree/main/quiz-application) | 🔹 [Scientific Calculator](https://github.com/prajyot-pimpale/java-mini-projects/tree/main/scientific-calculator) | 🔹  |
 
 </div>
 
@@ -100,7 +100,7 @@ A collection of beginner-to-intermediate Core Java projects demonstrating OOP, C
 
 ![Prajyot's GitHub Stats](https://github-readme-stats-salesp07.vercel.app/api?username=prajyot-pimpale&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=prajyot-pimpale&theme=tokyonight&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=prajyot-pimpale&theme=tokyonight&hide_border=true)
 
 </div>
 
